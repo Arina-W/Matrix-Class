@@ -1,4 +1,4 @@
-# Matrix-Class-Implementation-using-Python
+# Matrix-Class
 
 
 Implement Matrix Class
